@@ -1,0 +1,19 @@
+{
+ "country": "AR-P",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia de Formosa",
+   "url": "https://www.formosa.gob.ar/miprovincia/simbolosprovinciales/constitucion",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 221,
+     "source_url": "https://www.formosa.gob.ar/modulos/miprovincia/templates/files/constitucion2025.pdf",
+     "sha256": "111705ecfd6d3dc9a1b64ca11fa16cdfeaf48f49497c60f9b588f79bb0c7a61b"
+    }
+   ]
+  }
+ ]
+}

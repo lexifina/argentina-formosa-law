@@ -1,0 +1,11 @@
+{
+  "path": "ar-p",
+  "code": "AR-P",
+  "name": "Formosa",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-formosa-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://www.formosa.gob.ar/miprovincia/simbolosprovinciales/constitucion",
+  "language": "es",
+  "sources": 1
+}
