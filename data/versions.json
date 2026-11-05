@@ -14,6 +14,20 @@
      "sha256": "111705ecfd6d3dc9a1b64ca11fa16cdfeaf48f49497c60f9b588f79bb0c7a61b"
     }
    ]
+  },
+  {
+   "slug": "ley-1480-defensa-consumidor",
+   "short": "Ley 1480",
+   "title": "Procedimiento administrativo para la defensa de los derechos del consumidor y usuario",
+   "url": "https://www.formosa.gob.ar/defensaconsumidor/legislacion",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://archivos.formosa.gob.ar/media/uploads/documentos/documento_8.pdf",
+     "sha256": "c323cee350674aa91736219663b3db20b8c38621e7cac9c787bdf00ca5855e69"
+    }
+   ]
   }
  ]
 }

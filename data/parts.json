@@ -5,6 +5,12 @@
     "constitucion"
    ],
    "sha256": "9d6931920667b2a05ec7766a87b89575ddec63a1ecd36aee368852238fec7de0"
+  },
+  "20-ley-1480.json": {
+   "acts": [
+    "ley-1480-defensa-consumidor"
+   ],
+   "sha256": "e3914b8be1322a9c4011ba35e3af1c9c5b9cc25cb97468014d4d6715801720a4"
   }
  },
  "schema": 1
