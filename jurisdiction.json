@@ -5,7 +5,7 @@
   "level": "province",
   "parent": "ar",
   "repo": "https://github.com/lexifina/argentina-formosa-law",
-  "build": "built: constitution and Ley 15 (2 norms, 2 versions) from the provincial government's constitution PDF and Boletín Oficial page",
+  "build": "built: constitution as enacted and Ley 1480 as the oldest available current text (2 norms, 2 versions); Ley 1480 has an undated source and uses the retrieval-day fallback",
   "language": "es",
   "sources": 2
 }
