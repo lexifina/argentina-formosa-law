@@ -5,7 +5,7 @@
   "level": "province",
   "parent": "ar",
   "repo": "https://github.com/lexifina/argentina-formosa-law",
-  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://www.formosa.gob.ar/miprovincia/simbolosprovinciales/constitucion",
+  "build": "built: constitution and Ley 15 (2 norms, 2 versions) from the provincial government's constitution PDF and Boletín Oficial page",
   "language": "es",
-  "sources": 1
+  "sources": 2
 }

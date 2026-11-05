@@ -8,20 +8,24 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-1 norm so far: the constitution first, then the codes, then laws, newest first, added in parts. 1 of them are shown as enacted; the rest are their current consolidated text only (see Dates).
+2 norms so far: the constitution and Ley 15. The constitution is shown as enacted; Ley 15 is the text displayed by the provincial government, with no later amendment stated on that page.
 
 | Folder | Norm | History |
 | --- | --- | --- |
 | `constitucion/` | Constitución de la Provincia de Formosa | as enacted, in force 8 September 2025 |
+| `ley-15-boletin-oficial/` | Ley 15, creación del Boletín Oficial | oldest version available, in force 18 September 1958 |
 
 ## Source
 
 Gobierno de la Provincia de Formosa (www.formosa.gob.ar), <https://www.formosa.gob.ar/miprovincia/simbolosprovinciales/constitucion>. The constitution: the provincial government's PDF of the Constitución de la Provincia de Formosa sanctioned on 5 September 2025 and published in Boletín Oficial N° 12782 of 8 September 2025.
 
+The same government's <https://www.formosa.gob.ar/boletinoficial> page prints Ley 15 in full and gives its publication date as 9 September 1958.
+
 ## Dates
 
 - Each commit is dated at **noon, America/Argentina/Cordoba, on the day the norm took effect**: the day its own vigencia clause names, or otherwise the ninth day after its publication in the Boletín Oficial de la Provincia de Formosa (Código Civil y Comercial de la Nación, arts. 5 and 6).
 - The constitution of 2025 is shown as enacted, dated 8 September 2025, the day of its publication, from which its cláusula transitoria 1ª puts it in force.
+- Ley 15 has no vigencia clause on the source page. Its publication date is 9 September 1958; the default rule above gives 18 September 1958 as its in-force day.
 - Versions that take effect after the retrieval day are on the `futuro` branch, never merged into `main`.
 
 ## Files
