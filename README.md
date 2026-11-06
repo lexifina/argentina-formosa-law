@@ -1,5 +1,7 @@
 # Formosa: law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Formosa, Argentina, which global-law reads at `argentina/formosa/acts/`.
+
 Spanish texts from the Gobierno de la Provincia de Formosa. This record contains the Constitution of 2025 as enacted and the text of Ley 1480 supplied by the provincial government's consumer protection department. It does not claim comprehensive provincial-law coverage or reconstructed statute history.
 
 | Folder | Norm | Version |
